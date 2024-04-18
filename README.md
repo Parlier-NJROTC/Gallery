@@ -14,5 +14,5 @@ Very nice and we don't have to reapet our selves, its the computer's job now :D
 2. Email anyone in the organization to give you admin
 3. Navigate back here
 4. Click add file or the '+' button
-5. Upload files
+5. Upload files.
 Should be self explainatory from there, just commit the changes and et voila.
