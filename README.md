@@ -24,7 +24,7 @@ Should be self-explanatory from there, just commit the changes, and et voila.
 
 **This is _ONLY MADE_ to Make The CyberPatriot Team's _Lives Easier_.**
 
-***Harassment from using these Photos will NOT be TOLERATED under NO circumstance***
+***Harassment from using these Photos will NOT be TOLERATED under NO Circumstances***
 ##
 
 -Sincerely CyberPatriot Team's
