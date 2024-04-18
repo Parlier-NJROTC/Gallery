@@ -23,4 +23,11 @@ Very nice and we don't have to reapet our selves, its the computer's job now :D
 Should be self explainatory from there, just commit the changes and et voila.
 
 ## Attention
-You are allowed to use the images I believe, that last message was saul's. Just don't do anything bad with the images
+**This Photo Gallery will _ONLY_ be used _ON_ the _WEBSITE_.**
+
+***Do NOT download for NON-NJROTC Activities Or Harassment. UNLESS GIVEN PERMISSION BY CHIEF***
+
+**This is _ONLY MADE_ to Make The CyberPatriot Team's _Lives Easier_.**
+
+***Harassment from using these Photos will NOT be TOLERATED under NO circumstance***
+##
