@@ -29,3 +29,9 @@ Should be self-explanatory from there, just commit the changes, and et voila.
 
 -Sincerely CyberPatriot Team's
 
+you are allowed to use these
+
+just don't do anything bad
+
+- Cadet Ibarra, That on top was Cadet Sanchez
+
