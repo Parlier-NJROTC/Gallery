@@ -3,9 +3,9 @@
 Welcome to our gallery reposetory. We got tired of manually downloading a gaint images folder every time
 
 ## How does it work
-We have a script that gets the urls of every image
-Puts the url in groups of 30 or 10 or any number  we choose in a json file
-When genorating the gallery we read the json and make a page for each group
+We have a script that gets the urls of every image.
+Put the url in groups of 30 or 10 or any number  we choose in a json file.
+When genorating the gallery we read the json and make a page for each group.
 
 Very nice and we don't have to reapet our selves, its the computer's job now :D
 
